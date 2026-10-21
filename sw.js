@@ -1,6 +1,6 @@
 // Service worker: permite usar la app sin conexión.
 // Estrategia: responde desde caché y actualiza en segundo plano (stale-while-revalidate).
-const CACHE = 'finanzas-v1';
+const CACHE = 'finanzas-v2';
 const ASSETS = [
   './',
   'index.html',

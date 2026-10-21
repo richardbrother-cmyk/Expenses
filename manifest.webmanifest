@@ -2,6 +2,7 @@
   "name": "Mis Finanzas",
   "short_name": "Finanzas",
   "description": "Control de ingresos y gastos personales con recurrentes, reportes y proyección.",
+  "id": "./?app=mis-finanzas",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
